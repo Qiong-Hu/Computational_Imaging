@@ -1,6 +1,6 @@
 # Computational Imaging
 
-## [HW1: Computational photography](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW1)
+## [HW1: Computational Photography](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW1)
 
 ### Content
 
@@ -14,13 +14,15 @@
 - Capture a 4D light field
 - Understand template and window
 - Normalize cross correlation
-- Retrieve the pixel shift
-- Synthesize an image with synthetic aperture
+- Retrieve pixel shift of an image from a raw video
+- Synthesize an image with synthetic aperture, blurring the background with a refocused in-depth object
 - Derive the blur kernal width and identify the blur kernal shape
-- Understand mathematically blur, scene depth, and focal length
+- Understand mathematically the concept of blur, scene depth, and focal length
 
-## [HW3: Light Transport](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW3)
+## [HW3: Image-based Relighting using Light Transport Matrix](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW3)
 
 ### Content
 
-- 
+- Understand the complex interactions occurring between light and a scene point
+- Implement the separation of direction illumination and global illumination
+- Synthesize image with novel lighting condition including different number and color channel of original light source
