@@ -6,7 +6,11 @@ Full report: [report.pdf](HW2_report.pdf)
 
 <br>
 
-## Instruction
+## Objectives
+
+To synthesize images with smaller depths of field thus making it appear to have been taken from an expensive camera with a larger aperture by blurring out the background of an all-in focus image.
+
+## Instructions
 
 1. Set up a static scene in which objects are placed at different depth.
 
