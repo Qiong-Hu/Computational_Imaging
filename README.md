@@ -1,13 +1,13 @@
 # Computational Imaging
 
-## HW1: Computational photography
+## [HW1: Computational photography](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW1)
 
 ### Content
 
 - Understand Computational Photography vs Computational Imaging
 - Understand concept of shallow depth of field
 
-## HW2: Synthetic Aperture Imaging
+## [HW2: Synthetic Aperture Imaging](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW2)
 
 ### Content
 
@@ -19,3 +19,8 @@
 - Derive the blur kernal width and identify the blur kernal shape
 - Understand mathematically blur, scene depth, and focal length
 
+## [HW3: Light Transport](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW3)
+
+### Content
+
+- 
