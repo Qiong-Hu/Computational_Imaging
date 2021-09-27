@@ -1,4 +1,4 @@
-# Project 2: Synthetic Aperture Imaging
+# Project 2: Image Refocusing with 4D Light Field
 
 Main code: [Imaging.m](Imaging.m)
 
