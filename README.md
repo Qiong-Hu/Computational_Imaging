@@ -7,7 +7,7 @@
 - Understand Computational Photography vs Computational Imaging
 - Understand concept of shallow depth of field
 
-## [HW2: Synthetic Aperture Imaging](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW2)
+## [HW2: Image Refocusing with 4D Light Field](https://github.com/Qiong-Hu/Computational_Imaging/tree/master/HW2)
 
 ### Content
 
